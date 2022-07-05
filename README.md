@@ -9,3 +9,5 @@ Repositoria criado para o desafio de Projeto
 ![pastagit](https://user-images.githubusercontent.com/102634725/177385997-dab7bf49-29e4-4167-9784-52cf8d0fe11d.jpeg)
 #### 3º Aprendemos chave ssh e token e partimos para pratica
 ![image](https://user-images.githubusercontent.com/102634725/177386377-5f48d8e5-572d-46e9-a7cf-c2d196abeca8.png)
+Visite [O Melhor Site de Markdown do mundo](https://markdown.net.br).  
+Visite [O meu linkedin](https://www.linkedin.com/in/gabrielalv3s/).
